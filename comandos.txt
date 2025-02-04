@@ -1,0 +1,14 @@
+django-admin startproject PrimerProyecto . 
+
+python manage.py startapp firtsApp 
+
+python manage.py runserver
+
+pip install pymysql 
+
+pip install django-widget-tweaks 
+
+python manage.py makemigrations 
+
+python manage.py migrate 
+
